@@ -93,13 +93,3 @@ where \(K\) is the structuring element and \(I\) is the input image.
 
 
 
-
-
-## Author
-
-Faissal Nazir
-
-## License
-
-This project is licensed under the MIT License.
-
